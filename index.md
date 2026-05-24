@@ -53,3 +53,13 @@ full-stack weather application deployed to Microsoft Azure with a complete CI/CD
 ## Currently Learning
 
 Working through a structured Azure-focused roadmap: advanced Azure certifications → Terraform → Docker → CI/CD → portfolio projects.
+
+---
+
+---
+
+## 📄 Download CV
+
+Prefer a PDF? [**Download my CV here**](CV.pdf){:target="_blank"}
+
+*Last updated: April 2026*

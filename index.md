@@ -2,9 +2,6 @@
 layout: default
 ---
 
-# Abdullah
-### Junior Cloud Engineer | Manchester, UK
-
 📧 [kenwayabdullah@gmail.com](mailto:kenwayabdullah@gmail.com) · 
 🔗 [LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/ab997d/)) · 
 💻 [GitHub]([https://github.com/yourusername](https://github.com/hamdani-al))
